@@ -76,3 +76,61 @@ Pausing my thoughts, I close my eyes...
 "...me?" I respond, pretending to have not heard the first call.
 
 "I mean, there ain't anyone else here, ze?" ...good point. Also, "ze"?
+
+"Fair enough..."
+
+Raising my body to an upright sitting position, I turn to her direction and am met with a rather curious girl.
+
+I can only describe her attire to be *loosely* maid-like. Black and white color scheme, a black vest and skirt, and a white undershirt and waist apron.
+
+What catches my attention the most is her blonde hair and big-ass witch hat, which also matches the black and white scheme she's following. Oh, and the broom she's holding, for some reason.
+
+"*Those details aside, I sense a hella lot of magic from her...*"
+
+"...are you a magician, perhaps?" I ask curiously.
+
+"Oho?" She grins at my question. "You're half-correct there! I'm both a magician, *and* a witch! You're quite sharp, aren'tcha?"
+
+"Hmm..."
+
+"*Well, magic seems to be common here...*"
+
+...probably could've guessed that a few minutes beforehand from the magic that seems to freely flow around here.
+
+"That aside..." The curious magician stops my thought process. "Who might you be then, ze?"
+
+"*Hmm...*"
+
+On one hand, magic seems to be a common enough thing here to be used, but on the other hand, I have no idea how they deal with outsiders here...
+
+...
+
+...oh, fuck it. Me and Proto jump into situations head-first with no regards for our safety most of the time, so it's probably fine.
+
+"...before that, may I ask where this place is?" I ask.
+
+"Oh? Well, we're both pretty close to Reimu's place right now. The Hakurei Shrine, that is." Oh, a shrine? How curious. And it looks like this "Reimu" is probably the shrine's miko.
+
+"Buuut, if you're curious *where* the shrine is, then this entire place we're in is called Gensokyo!"
+
+...
+
+...yeah, certainly a whole new world.
+
+"...huh. Well... that tells me everything I need to know."
+
+"Any other questions ya need?" The girl asks me.
+
+"No, that's all."
+
+"But, to answer your question a moment ago..."
+
+"*...I've gauged the risks, calculated them, and I have to say... I'm bad at math.*"
+
+I raise my hand up, and point my index finger out. The girl seems to notice this gesture curiously. And with a little bit of thinking-
+
+*poof*
+
+-I make a little ball of light on the tip of my finger, to which she immediately notices, eyes widening in curiosity.
+
+"I guess... you could call me an outsider to this 'Gensokyo'. And if you're curious... yes, I'm also a bit of a magician myself, too."
