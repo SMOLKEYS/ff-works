@@ -61,6 +61,8 @@ Not being able to help myself, I lay back onto the ground and sigh deeply.
 
 "*Hah... well, no point in lamenting about it now. Just hope Proto's doing fine, wherever he could be.*"
 
+...
+
 "*Maybe I could relax here for a bit...*"
 
 Pausing my thoughts, I close my eyes...
@@ -131,6 +133,23 @@ I raise my hand up, and point my index finger out. The girl seems to notice this
 
 *poof*
 
--I make a little ball of light on the tip of my finger, to which she immediately notices, eyes widening in curiosity.
+-I make a little ball of light on the tip of my finger, to which she immediately notices, eyes widening in surprise.
 
 "I guess... you could call me an outsider to this 'Gensokyo'. And if you're curious... yes, I'm also a bit of a magician myself, too."
+
+Then, a moment of silence.
+
+...
+
+.....
+
+"...wait, hold on." She starts. "This isn't adding up." ...she's getting more confused. "So you're an *outsider*? That can *use* magic??" Eh?
+
+"...yes? Do your, uh, 'outsiders' not use magic?" I ask carefully.
+
+"More than that! As far as I know, magic *doesn't* exist in the Outside World, like, at all!"
+
+"Oh."
+
+It seems I now understand why she's confused.
+
