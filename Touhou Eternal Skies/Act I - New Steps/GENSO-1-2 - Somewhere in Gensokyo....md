@@ -153,3 +153,18 @@ Then, a moment of silence.
 
 It seems I now understand why she's confused.
 
+"Uh...  would the term 'outsider' be inaccurate for me, then?" I ask.
+
+"Well... not really. You did say you *weren't* from Gensokyo or the Outside World, so another term would be... uh..." She trails off, trying to find the right term.
+
+Not from this world, nor from this 'Outside World', huh...
+
+"...would 'otherworlder' count?" The girl perks up at my response.
+
+"Actually, yeah! That works!" Well, she seems to be content with that.
+
+...
+
+"...so, uh, what now?" I ask, cutting the short silence.
+
+"Hmm? Oh, right! Why don't ya follow me to the shrine, then? I was planning on going there before I spotted you here. " 
