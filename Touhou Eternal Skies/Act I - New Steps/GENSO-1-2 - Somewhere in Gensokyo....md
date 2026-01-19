@@ -167,4 +167,4 @@ Not from this world, nor from this 'Outside World', huh...
 
 "...so, uh, what now?" I ask, cutting the short silence.
 
-"Hmm? Oh, right! Why don't ya follow me to the shrine, then? I was planning on going there before I spotted you here. " 
+"Hmm? Oh, right! Why don't ya follow me to the shrine, then? I was planning on going there before I spotted you here. Reimu might know what to do with'ja." She suggests. 
