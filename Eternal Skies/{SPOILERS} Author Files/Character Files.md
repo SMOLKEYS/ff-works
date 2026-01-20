@@ -14,7 +14,7 @@
 <h3><details>
 	<summary>[Full Character File: Proto]</summary>
 	 <pre>
-	- Name:  Kenzaki Tojiko
+	- Name: Kenzaki Tojiko
 	- Age: 21
 	- Role (Blue Archive): Kivotos' Sensei
 	- Magic: [TODO]

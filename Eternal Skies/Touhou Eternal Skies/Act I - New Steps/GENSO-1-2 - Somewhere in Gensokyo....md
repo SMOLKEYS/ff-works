@@ -167,4 +167,27 @@ Not from this world, nor from this 'Outside World', huh...
 
 "...so, uh, what now?" I ask, cutting the short silence.
 
-"Hmm? Oh, right! Why don't ya follow me to the shrine, then? I was planning on going there before I spotted you here. Reimu might know what to do with'ja." She suggests. 
+"Hmm? Oh, right! Why don't ya follow me to the shrine, then? I was planning on going there before I spotted you here. Reimu might know what to do with'ja." She suggests.
+
+...well, I don't have anywhere else to go, so...
+
+"Well, why not, I guess. Might need a place to settle down in." I take up her suggestion.
+
+"Alright, neat! Though, I do have three more questions..." Ever curious... oh, that reminds me, I haven't gotten her name yet.
+
+"Ask away."
+
+"Probably should've been the first thing I asked at the start, but... what's your name, ze?" Well speak of the devil.
+
+...
+
+...yeah, guess it's fine.
+
+"Well... I'm often called by my codename 'Viper', but... sure. My real name is Nahoko. Motomiya Nahoko. Nice to meet you, uh..." I trail off, letting her pick it up.
+
+"Oh, yeah, mine too! The name's Marisa. Kirisame Marisa. Make sure to remember that! Though... just calling me by the former is fine. Nice to meet ya!" The blonde girl introduces herself as Kirisame Marisa, showing a carefree grin.
+
+"*...cute.*"
+
+...oh, uh, what? Anyways...
+
