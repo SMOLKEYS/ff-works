@@ -99,11 +99,13 @@ What catches my attention the most is her blonde hair and big-ass witch hat, whi
 
 ...probably could've guessed that a few minutes beforehand from the magic that seems to freely flow around here.
 
-"That aside..." The curious magician stops my thought process. "Who might you be then, ze?"
+"That aside..." The curious magician stops my thought process. "Who might you be then, ze? An outsider, perhaps?"
+
+Oh? Looks like they deal with outsiders. That could help...
 
 "*Hmm...*"
 
-On one hand, magic seems to be a common enough thing here to be used, but on the other hand, I have no idea how they deal with outsiders here...
+On one hand, magic seems to be a common enough thing here to be used, but on the other hand, I have no idea how they treat any outsiders here...
 
 ...
 
@@ -153,7 +155,7 @@ Then, a moment of silence.
 
 It seems I now understand why she's confused.
 
-"Uh...  would the term 'outsider' be inaccurate for me, then?" I ask.
+"Uh...  I'm not sure what this 'Outside World' is, so... would the term 'outsider' be inaccurate for me, then?" I ask.
 
 "Well... not really. You did say you *weren't* from Gensokyo or the Outside World, so another term would be... uh..." She trails off, trying to find the right term.
 
@@ -173,7 +175,7 @@ Not from this world, nor from this 'Outside World', huh...
 
 "Well, why not, I guess. Might need a place to settle down in." I take up her suggestion.
 
-"Alright, neat! Though, I do have three more questions..." Ever curious... oh, that reminds me, I haven't gotten her name yet.
+"Alright, neat! Though, I do have a couple more questions..." Ever curious... oh, that reminds me, I haven't gotten her name yet.
 
 "Ask away."
 
@@ -185,9 +187,55 @@ Not from this world, nor from this 'Outside World', huh...
 
 "Well... I'm often called by my codename 'Viper', but... sure. My real name is Nahoko. Motomiya Nahoko. Nice to meet you, uh..." I trail off, letting her pick it up.
 
-"Oh, yeah, mine too! The name's Marisa. Kirisame Marisa. Make sure to remember that! Though... just calling me by the former is fine. Nice to meet ya!" The blonde girl introduces herself as Kirisame Marisa, showing a carefree grin.
+"Oh, yeah, mine too, whoops. The name's Marisa. Kirisame Marisa. Make sure to remember that! Though... just calling me by the former is fine. Nice to meet ya!" The blonde girl introduces herself as Kirisame Marisa, showing a carefree grin and extending her hand out for a handshake.
 
 "*...cute.*"
 
 ...oh, uh, what? Anyways...
 
+I extend my own hand out and return the handshake with a smile.
+
+"*Hmm... now that I think about it, she looks pretty... short. And I don't mean that as a insult.*"
+
+"Say, why don'tja follow me along to the shrine while you answer some of my questions, ze? Seems better than sittin' here constantly." She suggests.
+
+"Why not, I guess. This place is relaxing, though I'd prefer being in a living space if possible."
+
+"Alrighty then! Well, get up from there and follow me!"
+
+"Got it." Following along, I get up from my unexpected landing spot. Once I fully got up, I stretched my body for a bit.
+
+Ugh... really feels like forever since I could relax like this.
+
+"Woah! Aren'tcha a tall one!" Marisa exclaims, surprised.
+
+Looking at her again from where my eyes are, then my previous assumption was very much correct. She is *half* my height, not including her witch hat, that is.
+
+"Oh, uhh... thanks." ...at the moment, I can't exactly tell if I'm tall, or she's short. "Well, uh, do we go?"
+
+"Ah, right! C'mon! The shrine's just ahead." She signals me, and I follow along.
+
+...looks like my first encounter with this world went pretty nicely.
+
+Doesn't seem like I'll be going anywhere else beyond this 'Gensokyo', so... might as well see what this land has to offer.
+
+---
+
+```
+End of journal file.
+
+No other relevant data found. Eject disk? [Y/N] Y
+
+Unmounting /mnt/cdrom... success.
+Ejecting disk... success.
+```
+
+<br />
+<br />
+<br />
+
+```
+Broadcast message from reader@foundation (pts/0):
+
+The system will now suspend!
+```
