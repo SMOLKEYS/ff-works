@@ -4,9 +4,9 @@
 	 <pre>
 	- Name: Motomiya Nahoko
 	- Age: 21
-	- Role (Touhou): ???
-	- Magic: [TODO]  Light magic, ???
-	- Overall personality: [TODO]
+	- Role (Touhou): Wandering Outsider
+	- Magic: [TODO] Light magic, ???
+	- Overall personality: Calm, friendly, casual (around close friends), *very* little regard for safety
 	- In-universe file: [TODO]
 	 </pre>
 </details></h3>
