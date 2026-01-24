@@ -1,3 +1,4 @@
+used in [[invalid entry 0x01]]
 
 ```
 Worlds are curious little things, are they not? So vibrant and colorful, flourishing with curiosity, yet so delicate as the rules that govern them desperately keep it all in check... oh? Why am I here, you ask? Fufufu~ you're quite the curious R E A D E R, aren't you? But, for now, things shall stay a secret, darling~

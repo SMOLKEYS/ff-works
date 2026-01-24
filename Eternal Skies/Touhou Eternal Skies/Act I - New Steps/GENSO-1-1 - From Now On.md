@@ -180,3 +180,5 @@ Broadcast message from reader@foundation (pts/0):
 
 The system will now suspend!
 ```
+
+[[GENSO-1-2 - An Ordinary Encounter]]
