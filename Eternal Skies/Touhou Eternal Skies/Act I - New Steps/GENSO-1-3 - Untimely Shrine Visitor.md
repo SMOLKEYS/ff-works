@@ -86,12 +86,13 @@ Once I finished, she stayed silent, seemingly shocked by my situation.
 
 "Ah, no. It's fine." I answer, reassuring her. "In fact, being able to speak up like this made me feel a bit less... burdened, if I had to put it." I follow up truthfully.
 
-"Okay, that's good." She sighs. "Well, hey, I'm glad to help ya feel better, even if it wasn't by a lot." Her smile seems to return, though a more gentler one.
+"Okay, that's good." She sighs. "Well, hey, I'm glad to help ya feel better, even if it wasn't by a lot." Her smile seems to return, though now a more gentler one.
 
 ...
 
+"?" She notices my curious gaze. Realizing what I was doing, I turn away in slight embarrassment.
 
-
+"*...alright, Nahoko. Stop looking at her face.*" I muse to myself.
 
 ---
 
