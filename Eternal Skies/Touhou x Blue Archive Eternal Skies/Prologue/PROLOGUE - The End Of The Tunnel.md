@@ -9,7 +9,7 @@ Version        : 5
 Response Format: 2
 Capabilities   : 
 Vendor_info    : 'unspecified'
-Identification : 'GENSO-1-1'
+Identification : 'PROLOGUE'
 Revision       : 'D100'
 
 CD mounted at /mnt/cdrom
@@ -180,5 +180,3 @@ Broadcast message from reader@foundation (pts/0):
 
 The system will now suspend!
 ```
-
-[[GENSO-1-2 - An Ordinary Encounter]]

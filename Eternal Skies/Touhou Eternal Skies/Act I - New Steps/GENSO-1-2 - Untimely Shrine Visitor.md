@@ -9,7 +9,7 @@ Version        : 5
 Response Format: 2
 Capabilities   : 
 Vendor_info    : 'unspecified'
-Identification : 'GENSO-1-3'
+Identification : 'GENSO-1-2'
 Revision       : 'D100'
 
 CD mounted at /mnt/cdrom
@@ -22,20 +22,6 @@ Initializing loader.bin...
 --- Journal Loader System v1 ---
 Loading journal.bin...
 Reading data...
-
-!!!
-INDEX CONFLICT!
-Following configuration: Automatically merging 'GENSO-1-2' index into new index 'GENSO-1-3'.
-!!!
-
-Index update: Updated local entity 'Viper', new name 'Nahoko'
-Index update: Updated local entity 'Nahoko', family name set to 'Motomiya'
-Index add: Added new local entity, full name 'Kirisame Marisa'
-
-Writing caches to /var/jls/index_GENSO-1.db
-Cache file exists, overwriting as specified.
-
-Resuming data read.
 ```
 
 ---

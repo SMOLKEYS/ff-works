@@ -11,7 +11,7 @@ Version        : 5
 Response Format: 2
 Capabilities   : 
 Vendor_info    : 'unspecified'
-Identification : 'GENSO-1-2'
+Identification : 'GENSO-1-1'
 Revision       : 'D100'
 
 CD mounted at /mnt/cdrom
@@ -240,4 +240,4 @@ Broadcast message from reader@foundation (pts/0):
 The system will now suspend!
 ```
 
-[[invalid entry 0x01]] or [[GENSO-1-3 - Untimely Shrine Visitor]]
+[[invalid entry 0x01]] or [[GENSO-1-2 - Untimely Shrine Visitor]]

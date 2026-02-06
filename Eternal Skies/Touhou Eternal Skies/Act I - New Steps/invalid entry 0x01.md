@@ -20,4 +20,4 @@ No call trace available
 
 ```
 
-[[GENSO-1-3 - Untimely Shrine Visitor]]
+[[GENSO-1-2 - Untimely Shrine Visitor]]
