@@ -192,4 +192,4 @@ Meanwhile, the other two girls are looking at me curiously.
 
 "...uh... hi?" I try greeting her, not really sure where to go with this.
 
-"Ah, I'm sorry for my rudeness!" She realizes what she was doing and promptly apologizes. "My name is Komano Aunn, "
+"Ah, I'm sorry for my rudeness!" She realizes what she was doing and promptly apologizes. "My name is Komano Aunn, guardian of the Hakurei Shrine!" 
