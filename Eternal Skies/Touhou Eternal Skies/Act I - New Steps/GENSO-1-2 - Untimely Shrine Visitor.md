@@ -120,7 +120,7 @@ Well, not for long, since she then quickly remembered to ask me about my magic, 
 
 Hmm...
 
-"Now I'm curious about one thing... why?" I ask, confused. "As far as I'm concerned, I'm no big shot, just a... well... to realistically put it: A remnant of a lost world."
+"Now I'm curious about one thing... why?" I ask, confused. "As far as I'm concerned, I'm no big shot, just a... well, to realistically put it: A remnant of a lost world."
 
 "Honestly, I couldn't give ya an answer even if I wanted to, ze." She answers. "How do I put this... Yukari's the type of person to leave behind pieces of a puzzle, have you pick them up and finish it, only to reveal you just finished a single piece of an even bigger puzzle. She's one hell of a mystery, but everyone chooses to leave that be since she, well, not only is she one you *really* shouldn't try to pick a fight with, she also maintains the barrier that seperates Gensokyo from the Outside World."
 
@@ -192,4 +192,16 @@ Meanwhile, the other two girls are looking at me curiously.
 
 "...uh... hi?" I try greeting her, not really sure where to go with this.
 
-"Ah, I'm sorry for my rudeness!" She realizes what she was doing and promptly apologizes. "My name is Komano Aunn, guardian of the Hakurei Shrine!" 
+"Ah, I'm sorry for my rudeness!" She realizes what she was doing and promptly apologizes. "My name is Komano Aunn, guardian of the Hakurei Shrine!" She introduces herself as Aunn.
+
+Well... that name says everything.
+
+"Nice to meet you, um..." She trails off, not knowing my name.
+
+"Nahoko, Motomiya Nahoko." I introduce myself, extending my arm towards her. "The former is just fine, though."
+
+"I see! Well, nice to meet you, Nahoko-san!" She returns the greeting and shakes my hand.
+
+"Oi! I'm here as well, y'know!" The other girl that was with Aunn angrily calls out to both of us.
+
+"*...whoops.*"

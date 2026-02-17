@@ -4,7 +4,7 @@ these are files i use specifically to keep track of my ideas, lore and character
 if you hold no regards for that, or already finished reading everything relevant, go ahead and open up any files as you'd like.
 
 [[Diagrams]]
-[[Character Files]]
+[[Eternal Skies/{SPOILERS} Author Files/Character Files]]
 
 - Touhou Eternal Skies:
 	- [[invalid entry 0x01 decoded stack]]
