@@ -6,3 +6,5 @@ Well, I'm already 2 hours and 220 trillion lightyears into this shit, so hell be
 Based on the outside view... we're well out of our home universe, flying through the open sections of the multiverse. A couple septillion lightyears below is the Floor of the Multiverse, and other floating universes all over, at least 270 billion to 25 trillion lightyears away from each other, with some exceptions.
 
 "A tricontagonal universe cluster... I *must* take notes of this!" Gustavo exclaims, typing away at his DMF (Dynamic Multi-form) keyboard.
+
+"Oh? Haven't seen those things since the last major exploration." Sym comments.
