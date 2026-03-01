@@ -1,5 +1,12 @@
 
 ```
+Booting from a command list
+
+.................................................................
+
+Welcome to Eternity Linux!
+
+
 Scanning CDs... found /dev/scd0.
 
 Reading CD...
