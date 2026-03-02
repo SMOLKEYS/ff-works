@@ -25,14 +25,38 @@ Hmm...
 "*Ah!*" An idea popped up in my mind.
 Holding the staff, I let my thoughts flow into it. I don't know how, but this thing seems to understand what I need with terrifying precision.
 
+`/setblock packed_ice ~ ~ ~1`
+
 In a quick moment-
 
 *poof*
 
--a Packed Ice block is placed next to me.
+-a Packed Ice block is placed next to my right.
 
 "*Alright, now...*"
 I slowly move my hand close to it, and sure enough, it's actually cold!
 
 "*YES! Something that can actually fight this goddamn heat!*"
 I begin to lean against the block of ice, letting the radiated coldness reach me.
+
+...
+
+"*Well, that aside... how long are they gonna take?*"
+
+"*Can't exactly carve this thing out since the 1 square meter thing is apparently a hard rule for Minecraft blocks.*"
+Hmm...
+
+"Unless...?" I whisper.
+I have something in mind, but whether or not it'll work is something to find out.
+
+Focusing back on the staff, I try something that I seriously doubt will work, but I can at least try.
+
+`/give @s bitsandchisels:diamond_chisel 1`
+
+*poof*
+
+"Huh?"
+
+Oh.
+That... that actually worked?
+
