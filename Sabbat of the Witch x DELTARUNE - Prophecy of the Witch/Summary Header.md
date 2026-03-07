@@ -19,6 +19,7 @@ with the room that changed their lives.
 ---
 
 [Basically put, DELTARUNE-style occurrences in Sabbat of the Witch.]
-[Takes place after all of the events that leads up to Nene's true ending, her afterstories included.]
+
+[Takes place after the entirety of Nene's route, including the entire RESTART timeline and her after-stories.]
 
 [Special Author Insight: I only started doing this because I kept hearing the "Don't Forget" motif in the game's soundtracks which drove me insane.]

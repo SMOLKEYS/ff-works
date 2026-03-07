@@ -1,4 +1,4 @@
---- D-1 |  Hoshina Shuuji | Himematsu Academy, Occult Club, End of Day ---
+--- D-1 |  Hoshina Shuuji | Occult Club, End of Day ---
 
 "Hmm..." He calmly hums, thinking about Nene's suggestion.
 
@@ -52,7 +52,7 @@ As her boyfriend.
 
 And that starts with me giving her the love she had waited for a decade for.
 
-"Guh...!! This earnest love I see...!" ...oh, crap, I forgot he hadn't left the room yet.
+"Gah...!! This earnest love I see...!" ...oh, crap, I forgot he hadn't left the room yet.
 
 Both me and Nene turn towards him in surprise, and he realizes what he was doing.
 
@@ -82,9 +82,9 @@ She pauses for a moment, then shows me her gentle, affectionate smile.
 
 With that in both our minds, we make our way out of the clubroom.
 
-During that, though, I would end up forgetting about a pair of scissors one gentle breeze away from falling to the floor.
+During that, though, I would end up forgetting about a pair of scissors, one gentle breeze away from falling to the floor.
 
-...little did I know, that such a simple oversight would ignite some of our most chaotic adventures yet.
+...oh, little did I know, that such a simple oversight would ignite some of our most chaotic adventures yet.
 
 ---
 
@@ -92,6 +92,6 @@ During that, though, I would end up forgetting about a pair of scissors one gent
 
 ---
 
---- D-2 | Hoshina Shuuji | Shuuji's House, Front Entrance, Early Night ---
+--- D-2 | Hoshina Shuuji | Shuuji's House, Early Night ---
 
 ""
