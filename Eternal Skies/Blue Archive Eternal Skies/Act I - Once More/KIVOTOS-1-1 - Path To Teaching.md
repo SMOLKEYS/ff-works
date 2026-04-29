@@ -22,3 +22,12 @@ Initializing loader.bin...
 Loading journal.bin...
 Reading data...
 ```
+
+---
+
+<center>From now on, until forever<br />our happiness will prevail.</center>
+
+<center><h4>[POV: Proto]</h4></center>
+
+"*...ugh... shit.*"
+

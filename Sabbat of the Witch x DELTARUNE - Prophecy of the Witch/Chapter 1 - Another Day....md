@@ -219,3 +219,16 @@ As the light gets taken away from all around the room, everything within the Occ
 <center><b>[[[ Prophecy of the Witch ]]]</b></center>
 
 ---
+
+<center><b>...</b></center>
+
+<center><b>A NEW WORLD...</b></center>
+
+<center><b>INDEPENDENT OF THE PROPHECY OF THE DELTA RUNE.</b></center>
+
+<center><b>BUT, RATHER... IS BOUND BY ITS OWN.</b></center>
+
+<center><b>...</b></center>
+
+<center><b>HOW VERY</b></center>
+<center><b>VERY INTERESTING.</b></center>

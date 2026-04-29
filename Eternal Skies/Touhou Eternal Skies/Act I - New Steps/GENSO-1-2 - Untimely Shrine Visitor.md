@@ -211,4 +211,10 @@ Well... that name says everything.
 
 "Oi! I'm here as well, y'know!" The other girl that was with Aunn angrily calls out to both of us.
 
-"*...whoops.*"
+"*…whoops.*"
+
+"Ah, uh, sorry." I apologize and face her. Seems like she doesn't like being ignored.
+
+...she's pouting.
+
+"Mmm... well, whatever."
